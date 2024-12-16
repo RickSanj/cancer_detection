@@ -37,7 +37,7 @@ tqdm (for progress bar during training)<br>
 scikit-learn (for data splitting and evaluation)
 
 ## About dataset
-277,000 images taken from breast cancer patients.<br>
+200,000 images taken from breast cancer patients.<br>
 
 https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
