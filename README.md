@@ -11,6 +11,13 @@ Model Training<br>
 Model Evaluation<br>
 Results<be>
 
+## Structure of repo
+test.ipynb - load data, KNN, Random Forest, Linear Regression, Decision Tree realization
+
+unet.ipynb - unet model realization
+
+unet_model.ipynb - also unet model realization
+
 ## Project Overview
 This project aims to train a U-Net model for binary classification of cancer images, <br>
 determining whether an image contains cancerous cells (class 1) or not (class 0). <br>
